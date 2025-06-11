@@ -1,0 +1,13 @@
+name: education-gap
+channels:   
+  - conda-forge 
+dependencies:   
+  - python   
+  - pandas   
+  - numpy   
+  - matplotlib   
+  - seaborn   
+  - jupyter   
+  - scikit-learn
+  - altair
+  - plotly
